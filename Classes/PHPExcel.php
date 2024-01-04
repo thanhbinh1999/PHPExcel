@@ -163,6 +163,7 @@ class PHPExcel
     *
     * @param string $MacrosCode string|null
     */
+    
     public function setMacrosCode($MacrosCode = null)
     {
         $this->macrosCode=$MacrosCode;
